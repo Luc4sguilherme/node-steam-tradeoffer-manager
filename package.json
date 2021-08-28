@@ -34,6 +34,10 @@
 		"steamcommunity": "^3.33.1",
 		"steamid": "^1.1.0"
 	},
+	"devDependencies": {
+		"@types/steamid": "^1.1.0"
+	},
+	"typings": "./index.d.ts",
 	"engines": {
 		"node": ">=4.0.0"
 	}
